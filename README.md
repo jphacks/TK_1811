@@ -1,4 +1,4 @@
-# サンプル（プロダクト名）
+# 思い出宅急便
 
 [![Product Name](image.png)
 
