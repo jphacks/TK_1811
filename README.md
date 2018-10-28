@@ -1,6 +1,6 @@
 # 思い出宅急便
 
-[![Product Name](image.png)
+![Product Name](image.png)
 
 ## 製品概要
 ### パーティー×Tech
