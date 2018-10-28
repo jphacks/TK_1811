@@ -1,3 +1,3 @@
 *.*~
 /src/rpi_side/campic/
-*.pem
+src/rpi_side/*.pem
