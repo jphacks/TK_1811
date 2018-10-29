@@ -1,7 +1,7 @@
-# 思い出宅急便
+# 思ひ出宅急便
 
 
-![デモ](https://youtu.be/fhJ3x5P88Mo)
+[![デモ](http://img.youtube.com/vi/fhJ3x5P88Mo/0.jpg)](http://youtube.com/watch?v=fhJ3x5P88Mo)
 
 ## 製品概要
 ### パーティー×Tech
@@ -18,7 +18,7 @@ Picuture_senderはWebカメラとマイクで盛り上がりを検知して、�
 - ①Webカメラの電源を入れます。
 - ②盛り上がりがWebカメラのトリガーになります。
 - ③専用のLINE＠（Picuture_sende)を登録します
-- ④LINE＠に「写真くれ」と入力するとWebカメラで撮影した写真が送られてきます。
+- ④LINE＠に「写真ちょうだい」と入力するとWebカメラで撮影した写真が送られてきます。
 
 ### 特長
 
